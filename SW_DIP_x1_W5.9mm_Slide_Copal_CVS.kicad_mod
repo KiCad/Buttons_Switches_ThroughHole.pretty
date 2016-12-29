@@ -1,4 +1,4 @@
-(module SW_DIP_x1_W5.9mm_Slide_Copal_CVS (layer F.Cu) (tedit 58653E18)
+(module SW_DIP_x1_W5.9mm_Slide_Copal_CVS (layer F.Cu) (tedit 586542A9)
   (descr "1x-dip-switch, Slide, row spacing 5.9 mm (232 mils), Copal_CVS")
   (tags "DIP Switch Slide 5.9mm 232mil Copal_CVS")
   (attr smd)
